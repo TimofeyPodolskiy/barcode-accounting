@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<errors>
+	<error>
+		<error-code>001</error-code>
+		<error-message>Задание уже в работе</error-message>
+	</error>
+</errors>

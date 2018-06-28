@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<task>
+	//Статус обработки лотусом, "Принято" например
+	<status></status>
+	//Дата время обработки
+	<datetime></datetime>
+</task>

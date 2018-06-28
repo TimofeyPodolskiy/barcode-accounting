@@ -9,11 +9,16 @@
 		<invn></invn>
 		<invdate></invdate>
 		<invunid></invunid>
-
+		//Суммарное необходимое кол-во штрих-кодов
+		<total-qty></total-qty>
 		<product_list>
 			<product>
 				//Уникальный код товара в системе лотус
 				<partnint></partnint>
+				//Наименование товара
+				<description></description>
+				//Артикул
+				<article></article>
 				//Кол-во
 				<qty></qty>
 				//Срок годности
@@ -23,12 +28,16 @@
 			</product>
 			<product>
 				<partnint></partnint>
+				<description></description>
+				<article></article>
 				<qty></qty>
 				<lotd></lotd>
 				<lotn></lotn>
 			</product>
 			<product>
 				<partnint></partnint>
+				<description></description>
+				<article></article>
 				<qty></qty>
 				<lotd></lotd>
 				<lotn></lotn>
