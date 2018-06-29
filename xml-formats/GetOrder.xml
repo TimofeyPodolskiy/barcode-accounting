@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+//Корневая нода tasklist, в ней таск один с id, который передали в параметре
+<tasklist>
+	<task>
+		//Дата и время последнего получения задания, и id этого задания (unid lotus)
+		<id></id>
+		<timedate></timedate>
+		//Номер счета, дата и уникальный id в лотусе (unid)
+		<invn></invn>
+		<invdate></invdate>
+		<invunid></invunid>
+		//Суммарное необходимое кол-во штрих-кодов
+		<total-qty></total-qty>
+		<product_list>
+			<product>
+				//Уникальный код товара в системе лотус
+				<partnint></partnint>
+				//Наименование товара
+				<description></description>
+				//Артикул
+				<article></article>
+				//Кол-во
+				<qty></qty>
+				//Срок годности
+				<lotd></lotd>
+				//Серия, если можно положить любую, то в серии и сроке годности ставятся прочерки
+				<lotn></lotn>
+			</product>
+			<product>
+				<partnint></partnint>
+				<description></description>
+				<article></article>
+				<qty></qty>
+				<lotd></lotd>
+				<lotn></lotn>
+			</product>
+			<product>
+				<partnint></partnint>
+				<description></description>
+				<article></article>
+				<qty></qty>
+				<lotd></lotd>
+				<lotn></lotn>
+			</product>
+		</product_list>
+
+	</task>
+</tasklist>
