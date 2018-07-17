@@ -77,9 +77,9 @@
 	<task>
 		<id>8F6</id>
 		<field>
-				<field-name>status</field-name>
-				<field-type>text</field-type>
-				<field-value>1</field-value>
+			<field-name>status</field-name>
+			<field-type>text</field-type>
+			<field-value>1</field-value>
 		</field>	
 	</task>
 </tasklist>
