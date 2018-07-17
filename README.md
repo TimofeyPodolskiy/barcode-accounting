@@ -65,3 +65,25 @@
 ```
 + Возвращаемое значение
   + Ответ в XML формате
+
+## Метод ChangeOrder
+
++ Параметры
+  + XMLDoc - реквизиты изменяемого задания в XML формате, например
+
+```xml
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tasklist>
+	<task>
+		<id>8F6</id>
+		<field>
+				<field-name>status</field-name>
+				<field-type>text</field-type>
+				<field-value>1</field-value>
+		</field>	
+	</task>
+</tasklist>
+```
+
++ Возвращаемое значение
+  + Ответ в XML формате, как в методе PutOrder
