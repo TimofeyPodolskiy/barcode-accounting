@@ -1,5 +1,4 @@
-# batcode-accounting
-
+Веб-сервис
 	##WSDL: http://80.79.114.230/ckat2010/Scanning.nsf/ComplectHandler?WSDL
 	
 	##Метод GetOrders
