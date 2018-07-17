@@ -13,6 +13,8 @@
 		<total-qty></total-qty>
 		<product_list>
 			<product>
+				//Индекс строки в документе
+				<index></index>
 				//Уникальный код товара в системе лотус
 				<partnint></partnint>
 				//Наименование товара
@@ -27,6 +29,7 @@
 				<lotn></lotn>
 			</product>
 			<product>
+				<index></index>
 				<partnint></partnint>
 				<description></description>
 				<article></article>
@@ -35,6 +38,7 @@
 				<lotn></lotn>
 			</product>
 			<product>
+				<index></index>
 				<partnint></partnint>
 				<description></description>
 				<article></article>
