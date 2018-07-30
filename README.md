@@ -25,7 +25,16 @@
 		<product_list>
 			<product>
 				<index>0</index>
-				<barcode>testbarcode0</barcode>
+				<barcodes>
+					<barcode>testbarcode0</barcode>
+					<barcode>testbarcode1</barcode>
+					<barcode>testbarcode2</barcode>
+					<barcode>testbarcode3</barcode>
+					<barcode>testbarcode4</barcode>
+					<barcode>testbarcode5</barcode>
+					<barcode>testbarcode6</barcode>
+					<barcode>testbarcode7</barcode>
+				</barcodes>
 				<partnint>APAN-ABFKSK</partnint>
 				<lotn>0785</lotn>
 				<lotd>062020</lotd>
@@ -33,11 +42,14 @@
 			</product>
 			<product>
 				<index>1</index>
-				<barcode>testbarcode1</barcode>
+				<barcodes>
+					<barcode>testbarcode10</barcode>
+					<barcode>testbarcode11</barcode>
+				</barcodes>
 				<partnint>APAN-ABFKTG</partnint>
 				<lotn>0789</lotn>
 				<lotd>062020</lotd>
-				<qty>8</qty>
+				<qty>2</qty>
 			</product>
 		</product_list>
 	</task>
@@ -46,19 +58,23 @@
 		<product_list>
 			<product>
 				<index>0</index>
-				<barcode>testbarcode2</barcode>
+				<barcodes>
+					<barcode>testbarcode8</barcode>
+				</barcodes>
 				<partnint>APAN-ABFKSK</partnint>
 				<lotn>0785</lotn>
 				<lotd>062020</lotd>
-				<qty>8</qty>
+				<qty>1</qty>
 			</product>
 			<product>
 				<index>1</index>
-				<barcode>testbarcode3</barcode>
+				<barcodes>
+					<barcode>testbarcode9</barcode>
+				</barcodes>
 				<partnint>APAN-ABFKTG</partnint>
 				<lotn>0789</lotn>
 				<lotd>062020</lotd>
-				<qty>8</qty>
+				<qty>1</qty>
 			</product>
 		</product_list>
 	</task>
